@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nsost\\documents\\unreal projects\\universe_divided\\intermediate\\build\\win64\\unrealeditor\\inc\\universe_divided\\uht\\universe_dividedgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nsost\\documents\\unreal projects\\universe_divided\\intermediate\\build\\win64\\x64\\universe_dividededitor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nsost\\documents\\unreal projects\\universe_divided\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\universe_divided\\definitions.universe_divided.h",
+            "c:\\users\\nsost\\documents\\unreal projects\\universe_divided\\source\\universe_divided\\universe_dividedgamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\nsost\\documents\\unreal projects\\universe_divided\\intermediate\\build\\win64\\unrealeditor\\inc\\universe_divided\\uht\\universe_dividedgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

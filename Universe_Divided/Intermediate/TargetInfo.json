@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Universe_Divided",
+			"Path": "..\\Source\\Universe_Divided.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Universe_DividedEditor",
+			"Path": "..\\Source\\Universe_DividedEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

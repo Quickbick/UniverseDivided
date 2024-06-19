@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Universe_Divided.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\Universe_DividedEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\Universe_Divided.init.gen.cpp.obj"
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\Universe_DividedCharacter.gen.cpp.obj"
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\Universe_DividedGameMode.gen.cpp.obj"
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\Universe_Divided.cpp.obj"
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\Universe_DividedCharacter.cpp.obj"
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\Universe_DividedGameMode.cpp.obj"
+"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\Default.rc2.res"
+/OUT:"C:\Users\nsost\Documents\Unreal Projects\Universe_Divided\Intermediate\Build\Win64\x64\UnrealEditor\Development\Universe_Divided\UnrealEditor-Universe_Divided.lib"
