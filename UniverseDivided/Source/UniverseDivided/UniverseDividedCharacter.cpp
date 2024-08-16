@@ -31,8 +31,11 @@ AUniverseDividedCharacter::AUniverseDividedCharacter()
 	// Create a camera boom
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
 	CameraBoom->SetupAttachment(RootComponent);
-	CameraBoom->TargetArmLength = 400.0f; // The camera follows at this distance behind the character	
-	CameraBoom->bUsePawnControlRotation = true; // Rotate the arm based on the controller
+	CameraBoom->SetUsingAbsoluteRotation(true); //Rotation of character should not affect rotation of boom
+	CameraBoom->bDoCollisionTest = false;
+	CameraBoom->TargetArmLength = 500.0f; // The camera follows at this distance behind the character
+	CameraBoom->SocketOffset = FVector(0.f, 0.f, 75.f);
+	CameraBoom->SetRelativeRotation(FRotator(0.f, 90.f, 0.f));
 
 	// Configure character movement
 	GetCharacterMovement()->bOrientRotationToMovement = true; // Character moves in the direction of input...	
